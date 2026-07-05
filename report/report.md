@@ -8,7 +8,7 @@
 
 | 姓名 | 研究领域 | 贡献 |
 |------|----------|------|
-| （待填写） | （待填写） | 实验设计、代码实现、报告撰写 |
+| 祁晨 | 具身智能，模仿学习 | 实验设计、代码实现、报告撰写 |
 
 ---
 
@@ -448,4 +448,4 @@ uv run python -m src.run_experiments
 uv run python -m src.train --model lstm --horizon 90 --epochs 30 --patience 10
 ```
 
-GitHub 链接：（待创建仓库后填写）
+GitHub 链接：[https://github.com/knocci/2026-Machine-Learning-Course](https://github.com/knocci/2026-Machine-Learning-Course)

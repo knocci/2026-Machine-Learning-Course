@@ -128,7 +128,7 @@ removing RevIN for long-horizon forecasting.
 
 See `report/report.md` for the complete course report.
 
-GitHub: (to be filled)
+GitHub: [https://github.com/knocci/2026-Machine-Learning-Course](https://github.com/knocci/2026-Machine-Learning-Course)
 
 ## References
 
