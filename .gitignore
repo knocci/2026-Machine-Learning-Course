@@ -1,0 +1,28 @@
+# venv
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data files (large)
+data/raw/*.zip
+data/raw/*.txt
+data/raw/*.csv.gz
+data/raw/*.csv
+
+# Model checkpoints (large)
+outputs/models/*.pt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

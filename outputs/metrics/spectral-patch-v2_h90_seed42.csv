@@ -1,0 +1,2 @@
+model,horizon,seed,epochs,best_epoch,device,mse,mae,checkpoint,figure,loss_curve
+spectral-patch-v2,90,42,2,2,cuda,297741.4375,438.1727294921875,/home/icc/exam/exam/outputs/models/spectral-patch-v2_h90_seed42.pt,/home/icc/exam/exam/outputs/figures/spectral-patch-v2_h90_seed42.png,/home/icc/exam/exam/outputs/figures/loss_spectral-patch-v2_h90_seed42.png

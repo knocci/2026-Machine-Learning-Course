@@ -1,0 +1,2 @@
+model,horizon,seed,epochs,device,mse,mae,checkpoint,figure
+flow-matching,365,42,1,cpu,364522.53125,480.1402893066406,D:\desktop\course_note\machinelearning\exam\outputs\models\flow-matching_h365_seed42.pt,D:\desktop\course_note\machinelearning\exam\outputs\figures\flow-matching_h365_seed42.png

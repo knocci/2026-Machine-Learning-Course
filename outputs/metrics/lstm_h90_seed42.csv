@@ -1,0 +1,2 @@
+model,horizon,seed,epochs,best_epoch,device,mse,mae,checkpoint,figure,loss_curve
+lstm,90,42,2,2,cuda,309357.59375,422.4140319824219,/home/icc/exam/exam/outputs/models/lstm_h90_seed42.pt,/home/icc/exam/exam/outputs/figures/lstm_h90_seed42.png,/home/icc/exam/exam/outputs/figures/loss_lstm_h90_seed42.png

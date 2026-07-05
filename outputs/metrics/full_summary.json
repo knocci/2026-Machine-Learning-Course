@@ -1,0 +1,92 @@
+[
+  {
+    "model": "conv-transformer",
+    "horizon": 90,
+    "num_runs": 5,
+    "mse_mean": 166363.434375,
+    "mse_std": 6416.556476123256,
+    "mae_mean": 310.411376953125,
+    "mae_std": 10.411371214886637
+  },
+  {
+    "model": "conv-transformer",
+    "horizon": 365,
+    "num_runs": 5,
+    "mse_mean": 160845.084375,
+    "mse_std": 3573.417340406897,
+    "mae_mean": 301.9997192382813,
+    "mae_std": 3.268961875542171
+  },
+  {
+    "model": "flow-matching",
+    "horizon": 90,
+    "num_runs": 5,
+    "mse_mean": 237442.81875,
+    "mse_std": 16307.68347122997,
+    "mae_mean": 379.3335327148437,
+    "mae_std": 14.593413373133167
+  },
+  {
+    "model": "flow-matching",
+    "horizon": 365,
+    "num_runs": 5,
+    "mse_mean": 229220.928125,
+    "mse_std": 10251.73724956441,
+    "mae_mean": 369.9552978515625,
+    "mae_std": 8.506905487246122
+  },
+  {
+    "model": "lstm",
+    "horizon": 90,
+    "num_runs": 5,
+    "mse_mean": 165600.84375,
+    "mse_std": 2664.3270312442774,
+    "mae_mean": 308.789208984375,
+    "mae_std": 3.2264415554639148
+  },
+  {
+    "model": "lstm",
+    "horizon": 365,
+    "num_runs": 5,
+    "mse_mean": 163559.284375,
+    "mse_std": 2141.945201280389,
+    "mae_mean": 306.02369384765626,
+    "mae_std": 2.1728517942321313
+  },
+  {
+    "model": "spectral-patch-v2-norevin",
+    "horizon": 90,
+    "num_runs": 5,
+    "mse_mean": 177034.06875,
+    "mse_std": 2954.0816510300033,
+    "mae_mean": 319.7243225097656,
+    "mae_std": 3.710861287626889
+  },
+  {
+    "model": "spectral-patch-v2-norevin",
+    "horizon": 365,
+    "num_runs": 5,
+    "mse_mean": 175179.634375,
+    "mse_std": 3737.8141468492945,
+    "mae_mean": 319.131689453125,
+    "mae_std": 3.7144311721551997
+  },
+  {
+    "model": "transformer",
+    "horizon": 90,
+    "num_runs": 5,
+    "mse_mean": 169783.1,
+    "mse_std": 5220.318941188315,
+    "mae_mean": 314.7186584472656,
+    "mae_std": 8.633376723564382
+  },
+  {
+    "model": "transformer",
+    "horizon": 365,
+    "num_runs": 5,
+    "mse_mean": 162463.53125,
+    "mse_std": 3635.441793669134,
+    "mae_mean": 302.3689453125,
+    "mae_std": 2.7133152577052213
+  }
+]
